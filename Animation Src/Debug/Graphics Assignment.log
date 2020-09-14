@@ -1,0 +1,4 @@
+﻿  CityScene.cpp
+d:\lewis\documents\visualstudios\projects\graphics assignment\graphics assignment\cityscene.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Graphics Assignment.vcxproj -> D:\Lewis\Documents\VisualStudios\Projects\Graphics Assignment\Debug\Graphics Assignment.exe
+  Graphics Assignment.vcxproj -> D:\Lewis\Documents\VisualStudios\Projects\Graphics Assignment\Debug\Graphics Assignment.pdb (Partial PDB)
